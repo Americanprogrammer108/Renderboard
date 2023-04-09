@@ -1,0 +1,32 @@
+{
+  "contacts":
+  [
+    {
+      "DisplayName": "Ethan Chen",
+      "EmailAddress": "chensong108330@gmail.com",
+      "Username": "AmericanProgrammer108",
+      "Password": "54Gba7C!"
+    },
+
+    {
+      "DisplayName": "Kathleen Benayon",
+      "EmailAddress": "kathleenb234@gmail.com",
+      "Username": "Grandeloverb2",
+      "Password": "1082Hb3*7"
+    },
+
+    {
+      "DisplayName": "Andrew Wong",
+      "EmailAddress": "tehtechie@protonmail.com",
+      "Username": "TehTechie",
+      "Password": "password"
+    },
+
+    {
+      "DisplayName": "Emma Roberts",
+      "EmailAddress": "emmaroberts48@hotmail.com",
+      "Username": "Canadianlover44",
+      "Password": "3N2hb#kf7"
+    }
+  ]
+}
