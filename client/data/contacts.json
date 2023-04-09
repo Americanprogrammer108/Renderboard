@@ -1,0 +1,29 @@
+{
+  "contacts":
+  [
+    {
+      "DisplayName": "Ethan Chen",
+      "ContactNumber": "416-824-9713",
+      "EmailAddress": "chensong108330@gmail.com"
+    },
+
+    {
+      "DisplayName": "Kathleen Benayon",
+      "ContactNumber": "647-551-9935",
+      "EmailAddress": "kathleenb234@gmail.com"
+    },
+
+    {
+      "DisplayName": "Andrew Wong",
+      "ContactNumber": "647-646-3429",
+      "EmailAddress": "tehtechie@protonmail.com"
+    },
+
+    {
+      "DisplayName": "Emma Roberts",
+      "ContactNumber": "647-289-5521",
+      "EmailAddress": "emmaroberts48@hotmail.com"
+
+    }
+  ]
+}
